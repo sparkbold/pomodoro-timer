@@ -2,7 +2,7 @@
 
 ## Overview
 
-These are the starter files and a suggested solution to the Pomodoro Timer.
+These are my solution to the Pomodoro Timer.
 You can find more details about the challenge by [logging into Podia.](https://store.selfteach.me/login)
 
 ## Challenge solution
